@@ -18,6 +18,10 @@ footer {
   height: 50px;
 }
 
+.list-group {
+  color: black;
+}
+
 .container {
   width: 100%;
   max-width: 960px;
